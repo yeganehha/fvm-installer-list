@@ -5,6 +5,7 @@
 **Tu veux rajouter ta ressource dans la liste ? Soit sûr que ton script est à la racine de repertoire Github et met en ligne une release ! Après tu peux modifier le README pour l'ajouter ;)**
 
 List of all compatible resources | Listes des ressources pouvant être installées : 
+- [yeganehha/gang](https://github.com/yeganehha/gang) - Stand A Lone Gang System
 - [fivemtools/ft_ui](https://github.com/FivemTools/ft_ui) - FT User Interface
 - [fivemtools/ft_menubuilder](https://github.com/FivemTools/ft_menuBuilder) - FT Menu Builder
 - [fivem-scripts/els-fivem](https://github.com/FiveM-Scripts/ELS-FiveM) - Change Control
